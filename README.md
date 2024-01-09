@@ -55,7 +55,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhrubobarman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubobarman&theme=github-dark&area=true&hide_border=true" height="220" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dhrubobarman&theme=nord&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
