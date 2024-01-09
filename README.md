@@ -60,8 +60,9 @@
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=dhrubobarman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  ###
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubobarman&theme=redical" height="150" alt="activity-graph graph"  />
+  <h1></h1>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubobarman&theme=redical" height="220" alt="activity-graph graph"  />
+  <h1></h1>
   <img src="https://github-profile-trophy.vercel.app?username=dhrubobarman&theme=discord&no-frame=true&no-bg=false&row=2&margin-w=5&margin-h=5" height="150" alt="trophy graph"  />
 </div>
 
