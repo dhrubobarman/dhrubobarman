@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://ih1.redbubble.net/image.3485586157.9219/st,small,507x507-pad,600x600,f8f8f8.jpg" height="40" alt="rust logo"  />
+  <img src="https://image.pngaaa.com/709/5591709-middle.png" height="40" alt="rust logo"  />
 </div>
 
 ###
